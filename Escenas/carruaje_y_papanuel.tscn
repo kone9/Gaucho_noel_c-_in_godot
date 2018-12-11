@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://escenas_importadas/carruaje_y_papanuel.dae" type="PackedScene" id=1]
+
+[node name="carruaje_y_papanuel" instance=ExtResource( 1 )]
+
